@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/logo.unity
+    guid: d7f3d1aba737a274d90f7fcd74d3a326
+  - enabled: 1
+    path: Assets/Cenas/menu.unity
+    guid: 67c8ce3d6df263e4aab35623e43b7f1d
+  - enabled: 1
+    path: Assets/Cenas/tutorial.unity
+    guid: 3e6a9a1fc49d49449b29419dfe0567a2
+  - enabled: 1
+    path: Assets/Cenas/gambiarra.unity
+    guid: bf56403d14eb59d45ac91952906a5fa4
+  - enabled: 1
+    path: Assets/Cenas/mapa01.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}

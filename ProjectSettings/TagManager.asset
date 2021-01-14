@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PistolFake
+  - Gas
+  - Player01
+  - Player02
+  - TileMap
+  - Arvore
+  - MiraPlayer01
+  - ShotGunFake
+  - ShotGun
+  - SlotAtivador
+  - Pistola
+  - Controlador
+  - Camera01
+  - Inv
+  - municaoAk
+  - MiraPlayer02
+  - MainCamera2
+  - Inv2
+  - UiDano1
+  - UiDano2
+  - Pos01
+  - Pos02
+  - Pos3
+  - Inimigo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MiraPersonagem01
+  - MiraPersonagem02
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

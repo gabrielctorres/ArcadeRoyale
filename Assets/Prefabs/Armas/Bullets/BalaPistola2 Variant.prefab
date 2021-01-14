@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &6635289166898812047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6856105384564348295}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2844a74b355976a4e9426f04fdebd8e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade: 5
+  tempoVida: 3
+  dano: 0.06
+  sangue: {fileID: 6774905197071425681, guid: 7b6333461d08afb49ac6922492609259, type: 3}
+  particula: {fileID: 3575631872366640723, guid: 5c9a68d92611fd144a42d541d56270e0,
+    type: 3}
+--- !u!1001 &1947466012731006869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4909782864744385042, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_Name
+      value: BalaPistola2 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1732204549584307381, guid: a799cde01949958418083d59c881c498,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6974199729473006240, guid: a799cde01949958418083d59c881c498, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: a799cde01949958418083d59c881c498, type: 3}
+--- !u!1 &6856105384564348295 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4909782864744385042, guid: a799cde01949958418083d59c881c498,
+    type: 3}
+  m_PrefabInstance: {fileID: 1947466012731006869}
+  m_PrefabAsset: {fileID: 0}
