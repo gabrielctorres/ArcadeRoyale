@@ -6,13 +6,13 @@
 
 ## **Linguagem e engine utilizada**
 
-- [[C#]](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Unity](https://unity.com/pt)
 
 ## Imagens 
 
-![](https://imgur.com/dIYi9bu)
+![](Imagens/Menu)
 
-![](https://imgur.com/g5gAUrh)
+![](Imagens/Gameplay1)
 
-![](https://imgur.com/71ky8jE)
+![](Imagens/Gameplay2)
