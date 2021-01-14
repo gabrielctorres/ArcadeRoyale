@@ -11,8 +11,8 @@
 
 ## Imagens 
 
-![](Imagens/Menu)
+![](Imagens/Menu.png)
 
-![](Imagens/Gameplay1)
+![](Imagens/Gameplay1.png)
 
-![](Imagens/Gameplay2)
+![](Imagens/Gameplay2.png)
